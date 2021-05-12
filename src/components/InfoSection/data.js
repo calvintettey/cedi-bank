@@ -1,6 +1,6 @@
 import Icon1 from "../../images/svg-1.svg";
 import Icon2 from "../../images/svg-2.svg";
-import Icon3 from "../../images/svg-6.svg";
+import Icon6 from "../../images/svg-6.svg";
 
 export const homeObjOne = {
   id: "about",
@@ -52,7 +52,7 @@ export const homeObjThree = {
   buttonLabel: "Start Now",
   imgStart: false,
   // img: require("../../images/svg-6.svg"),
-  img: Icon3,
+  img: Icon6,
   alt: "Profile",
   dark: false,
   primary: false,
